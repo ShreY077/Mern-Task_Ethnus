@@ -1,0 +1,36 @@
+form{
+    background-color: maroon;
+    color:white;
+    padding:30px;
+    width: 300px;
+    justify-content:center;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+table{
+    background-color: maroon;
+}
+
+.check{
+    border-radius: 100%;
+}
+
+td{
+    padding:5px;
+}
+button{
+    padding-top: 5px;
+    padding-left: 125px;
+    padding-right:115px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+select{
+    background-color: gainsboro;
+    padding:7px;
+}
+
+body{
+    background-color: blueviolet;
+}

@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gainsboro;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li {
+    border-right: 1px solid blue;
+  }
+
+.active {
+    background-color: grey;
+}

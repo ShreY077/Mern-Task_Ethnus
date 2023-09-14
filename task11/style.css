@@ -1,0 +1,47 @@
+.forms{
+    text-align: center;
+
+}
+
+.forms b{
+    font-family: arial;
+}
+
+button{
+    background-color:red;
+    color:white;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 325px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+
+}
+
+input[type = "password"], input[type = "text"]{
+    width: 500px;
+    padding: 11px 15px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+} 
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 500px;
+}
+
+.check{
+    text-align: left;
+    margin-left : 505px;
+}
+
+
+
+
